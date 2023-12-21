@@ -1,6 +1,5 @@
 namespace SpriteKind {
     export const Text = SpriteKind.create()
-    export const StatusBar = SpriteKind.create()
     export const Ball = SpriteKind.create()
     export const Booth = SpriteKind.create()
     export const Mouse = SpriteKind.create()
